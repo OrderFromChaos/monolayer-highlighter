@@ -10,7 +10,7 @@ The code presented in this repository is a Processing method for doing so.
 The program takes a target RGB color and accepted tolerances as inputs, then highlights all pixels that fit the chosen parameters and blacks out all that do not:
 ![output](http://i.imgur.com/CKpkzH3.jpg)
 
-The highlight and blackout can be selected. If needed, by commenting lines n and n, the highlight/blackout colors can be not applied, preserving the colors below them. For example:
+The highlight and blackout can be selected. If needed, by commenting lines 49 and 51, the highlight/blackout colors can be not applied, preserving the colors below them. For example:
 ![only highlighting target](http://i.imgur.com/k0TjECz.jpg)
 ![only blacking out background](http://i.imgur.com/uiuRLb8.jpg)
 

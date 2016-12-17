@@ -2,6 +2,7 @@
 
 In my first lab, I studied MoS2 (Molybendum Disulfide). Our fabrication process created flakes of variable thickness. To determine which ones were most thin, we had to analyze images from a constrast microscope.
 ![example](http://i.imgur.com/tJCGvRs.jpg)
+
 The above shows a (compressed) sample output. The color would change relative to the thickness, so we simply needed to highlight the relevant sections for later modeling.
 
 The code presented in this repository is a Processing method for doing so.

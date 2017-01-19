@@ -1,5 +1,7 @@
 # monolayer-highlighter
 
+Thanks to my research lead, Dr. Hugh Churchill, for letting me pursue this and test my programming ability when I was just starting out. [Link to the lab website.](http://churchill-lab.com/)
+
 In my first lab, I studied MoS2 (Molybendum Disulfide). Our fabrication process created flakes of variable thickness. To determine which ones were most thin, we had to analyze images from a constrast microscope.
 ![example](http://i.imgur.com/tJCGvRs.jpg)
 

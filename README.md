@@ -12,10 +12,10 @@ The code presented in this repository is a Processing method for doing so.
 The program takes a target RGB color and accepted tolerances as inputs, then highlights all pixels that fit the chosen parameters and blacks out all that do not:
 ![output](http://i.imgur.com/CKpkzH3.jpg)
 
-The highlight and blackout can be selected. If needed, by commenting lines 49 and 51, the highlight/blackout colors can be not applied, preserving the colors below them. For example:
+The highlight and blackout colors can be selected. If needed, by commenting lines 49 and 51, the highlight/blackout colors can be not applied, preserving the colors below them. For example:
 ![only highlighting target](http://i.imgur.com/k0TjECz.jpg)
 ![only blacking out background](http://i.imgur.com/uiuRLb8.jpg)
 
 This code can be applied to relatively large images (4000 by 2000) thanks to bit shifting where the image color data is stored.
 
-Note that this code cannot run extremely large images; it runs into memory problems. To fix this in the future, this program should be written inside PGraphics, instead of being shown in the view window.
+Note that this code as is cannot run extremely large images; it runs into memory problems. To fix this in the future, this program should be written inside PGraphics, instead of being shown in the view window.
